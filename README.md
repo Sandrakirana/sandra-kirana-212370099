@@ -1,2 +1,7 @@
-# sandra-kirana-212370099
-mengerjakan tugas bahasa pemrograman yaitu github
+# Aplikasi Input data siswa
+
+
+import os
+import sys
+
+class Mahasiswa
